@@ -2,3 +2,4 @@
 * さらについか
 
   -feacher-A
+  --fix-B
